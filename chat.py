@@ -3,8 +3,8 @@ import torch
 from torch.utils.data import Dataset
 import torch.utils.data
 from models import *
-from utils import *
-
+from utils import * 
+#all the files are writen here
 load_checkpoint = True
 ckpt_path = 'checkpoint.pth.tar'
 
